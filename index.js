@@ -23,7 +23,7 @@ const fetchVolume = async (keyword) => {
       {
         keywords: [keyword],
         language_code: "it",
-        location_code: 2388
+        location_code: 2380
       }
     ],
     {
